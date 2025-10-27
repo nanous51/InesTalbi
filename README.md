@@ -92,12 +92,5 @@ I thrive on designing systems that sense, compute, and act autonomously, combini
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nanous51&icon=3&color=9" />
-  </a>
-</p>
-
----
 
 <p align="center"><sub>✨ Proudly crafted by <b>Ines Talbi</b> | Embedded Systems & AI Enthusiast ✨</sub></p>
