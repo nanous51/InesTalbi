@@ -1,6 +1,6 @@
 # InesTalbi
 
-#                                                 💫 About Me:
+#                                                                                  💫 About Me:
                                                   Hey,I'm Ines Talbi 👋                     
                  ⚙️ Embedded Systems Engineering Student @ ENSI | 🤖 Embedded AI & Robotics Enthusiast | 
                             💻 Competitive Programmer & Former Sponsoring Manager @ ECPC ENSI          
