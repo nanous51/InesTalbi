@@ -4,14 +4,13 @@
                                                   Hey,I'm Ines Talbi 👋                     
                  ⚙️ Embedded Systems Engineering Student @ ENSI | 🤖 Embedded AI & Robotics Enthusiast | 
                             💻 Competitive Programmer & Former Sponsoring Manager @ ECPC ENSI          
-  Driven by a passion for innovation at the crossroads of hardware and intelligence, I’m an engineering student fascinated by how embedded systems can make technology smarter, faster, and more connected.<br>             
+  Driven by a passion for innovation at the crossroads of hardware and intelligence, I’m an engineering student fascinated by how embedded systems can make technology smarter, faster, and more connected.<br> 
                                                I thrive on designing systems that sense, compute, and act autonomously, combining precision electronics with intelligent software.<br><br>        
-                            🧠 Alongside my embedded projects, I’ve independently explored Artificial Intelligence, developing solutions in biomedical signal analysis, computer vision, and intelligent automation.<br>                                      
-                                            These experiences deepened my enthusiasm for AI integration in embedded and robotic systems, where intelligence meets real-time performance.<br> <br>                                    
+                            🧠 Alongside my embedded projects, I’ve independently explored Artificial Intelligence, developing solutions in biomedical signal analysis, computer vision, and intelligent automation.<br> 
+                                            These experiences deepened my enthusiasm for AI integration in embedded and robotic systems, where intelligence meets real-time performance.<br> <br>             
                                                                     💡 As a member and former Sponsoring Manager of the ECPC (ENSI Competitive Programming Club), <br>      
                                I’ve built not only my problem-solving and algorithmic skills through competitions but also my leadership and communication abilities while managing partnerships and sponsorships.<br><br>
 🎯 I’m currently focused on advancing my expertise in real-time embedded systems, microcontroller programming (STM32, ESP32), and AI on the edge — aiming to design the next generation of intelligent, autonomous, and energy-efficient systems.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inestalbi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ines.talbi@ensi-uma.tn) 
