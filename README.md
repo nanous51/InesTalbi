@@ -1,7 +1,4 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <span style="color:#FFD700;">Hello there!</span> <span style="color:#000000;">👋</span>
-</h1>
+
 
 <!-- Animation (Text flashing between yellow and black) -->
 <p align="center">
@@ -80,12 +77,6 @@ I thrive on designing systems that sense, compute, and act autonomously, combini
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nanous51&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center">
