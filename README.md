@@ -1,8 +1,9 @@
 # InesTalbi
 config files for my Github profile.
 #                                                                                                    💫 About Me:
-                                                                                                   I'm Ines Talbi 👋<br><br>                       
-                               ⚙️ Embedded Systems Engineering Student @ ENSI | 🤖 Embedded AI & Robotics Enthusiast | 💻 Competitive Programmer & Former Sponsoring Manager @ ECPC ENSI<br><br>          
+                                                                                                   I'm Ines Talbi 👋                     
+                                                              ⚙️ Embedded Systems Engineering Student @ ENSI | 🤖 Embedded AI & Robotics Enthusiast | 
+                                                                          💻 Competitive Programmer & Former Sponsoring Manager @ ECPC ENSI          
   Driven by a passion for innovation at the crossroads of hardware and intelligence, I’m an engineering student fascinated by how embedded systems can make technology smarter, faster, and more connected.<br>             
                                                I thrive on designing systems that sense, compute, and act autonomously, combining precision electronics with intelligent software.<br><br>        
                             🧠 Alongside my embedded projects, I’ve independently explored Artificial Intelligence, developing solutions in biomedical signal analysis, computer vision, and intelligent automation.<br>                                      
